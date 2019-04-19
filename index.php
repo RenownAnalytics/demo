@@ -1,8 +1,4 @@
-<?php
-//$db = mysqli_connect('localhost','root','','hospiasset');
-//$conn = new mysqli($servername, $username, $password, $dbname);
-?>
-<!DOCTYPE html>
+
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
